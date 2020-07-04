@@ -1,2 +1,2 @@
 # articulos-TFM
-Repositorio para incluir artículos que oy encontrando para su uso en el TFM
+Repositorio para incluir artículos que voy encontrando para su uso en el TFM
